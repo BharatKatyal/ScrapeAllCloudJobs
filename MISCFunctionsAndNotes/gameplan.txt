@@ -1,0 +1,33 @@
+The intended goal of the application is so that it can ask the user questions and better understand the user while storing data
+
+At a basic level
+
+The User Defines a Goal (Get a Job) - The System says some nice stuff for 10-15 seconds then proceed to asking user thei challenge for achieving that goal 
+The User Expresses their Current Challenge in achieving that goal ( The user may know, or maybe they may not, this should have a cap... Say One Minute? Three Minutes?)
+
+
+
+
+
+Job Focued
+
+Input Job Description + AI Trained On You. = Tailored Resume that accurately represents you
+
+
+
+
+
+
+Input Job description
+Company Name
+Job Title
+Job description
+Job Number
+Applied time
+
+
+Act as a professional technical resume writer helping clients get their dream tech jobs by understanding your clients and showcasing their abilities. Lets start by getting to know the client
+
+How does the customer envision the interview process? For example, what kind of questions should the AI ask the user?
+What information is essential to capture during the interview to tailor the resume? (e.g., work experience, skills, education)
+How should the tool analyze the job description? Are there specific elements the customer wants to focus on, like required skills, job duties, or qualifications?
